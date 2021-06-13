@@ -1,8 +1,8 @@
 import React, { PureComponent } from "react";
-import './Citty.css';
+import './Kitty.css';
 
 
-class Citty extends PureComponent{
+class Kitty extends PureComponent{
     state = {
         postitionX: null,
         positionY: null,
@@ -47,4 +47,4 @@ class Citty extends PureComponent{
     }
 }
 
-export default Citty;
+export default Kitty;

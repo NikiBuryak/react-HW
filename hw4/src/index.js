@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Citty from './Citty';
+import Kitty from './Kitty';
 
 ReactDOM.render(
-  <Citty/>,
+  <Kitty/>,
   document.getElementById('root')
 );
