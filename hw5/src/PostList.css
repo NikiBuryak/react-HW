@@ -1,0 +1,14 @@
+.btn-delete{
+    cursor: pointer;
+}
+.btn-delete:hover{
+    border: 1px solid black;
+    color: black;
+    background-color: red;
+}
+.edit-btn{
+    cursor: pointer;
+}
+.edit-btn:hover{
+    color: blue;
+}

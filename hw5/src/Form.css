@@ -1,0 +1,13 @@
+.posts-form{
+    border-bottom: 2px solid black;
+}
+.input-wrapper{
+    margin: 20px;
+}
+.input-wrapper> input{
+    min-width: 200px;
+    min-height: 30px;
+}
+.hidden{
+    display: none;
+}
